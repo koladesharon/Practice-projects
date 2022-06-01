@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+.container{
+    width: 500px;
+    margin: auto;
+    border: 0.3px solid;
+    margin-top: 2rem;
+}
+
+img{
+    margin: auto;
+    display: grid;
+    place-items: center;
+    width: 30rem;
+}
+
+#line{
+    display: flex;
+}
+
+#line p{
+    margin-top: 0;
+}
+
+p .a{
+    word-spacing: 30px;
+}
+
+#text{
+    text-align: center;
+}
+
+button{
+    align-items: center;
+    margin-left: 12rem;
+    margin-top: 1rem;
+}
+
+.end{
+    text-align: center;
+}
